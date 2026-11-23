@@ -3,8 +3,10 @@
   "skills": {
     "fit-shape-coach-skill": {
       "source": "sendsoon/fit-shape-coach-skill",
+      "commit": "64c03e2bffd2074461023e1250ea0544d6834c6a",
       "sourceType": "github",
-      "skillPath": "SKILL.md"
+      "skillPath": "SKILL.md",
+      "computedHash": "20723dcceb374e240ab7b14e0195b70e395d31777bc0164762bcbbcbc5fd077e"
     }
   }
 }
