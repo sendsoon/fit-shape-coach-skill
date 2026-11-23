@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Health management",
+      "description": "Long-term, safety-bounded coaching for movement, meals, sleep, and habits. Not a diagnosis, a diet prescription, or a body-shape promise.",
+      "skills": ["fit-shape-coach-skill"]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
+
+# Local reading copies (not published)
+SKILL.zh-CN.md
+examples/*.zh-CN.md
+references/*.zh-CN.md
+
+# Local agent entries (not published)
+.agents/
+.claude/
+.cursor/
+
+# Personal records and session logs (never publish)
+# The folder README is the only tracked file. It contains no personal data.
+fit-shape-records/*
+!fit-shape-records/README.md

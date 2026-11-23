@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "skills": {
+    "fit-shape-coach-skill": {
+      "source": "sendsoon/fit-shape-coach-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md"
+    }
+  }
+}
